@@ -1,1 +1,2 @@
-# Bole-Sequential-Model-for-Predicting-Candidate-Success
+Sequential Multi-Stage Interview Prediction (Bole)
+Official PyTorch implementation of the Sequential Multi-Stage Interview Prediction model(Bole).
